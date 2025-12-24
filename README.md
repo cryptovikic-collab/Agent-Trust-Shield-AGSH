@@ -1,2 +1,2 @@
-# Agent-Trust-Protocol
-C# Agent Reputatie Systeem.
+# Agent Trust Shield ($AGSH)
+C# Security Layer & Reputatie Systeem voor AI Agents.
